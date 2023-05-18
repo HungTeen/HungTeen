@@ -7,6 +7,10 @@
 
 ---
 
+[![Discord](https://img.shields.io/discord/730705254567510086.svg?color=%237289da&label=Discord&logo=discord&logoColor=%237289da)](https://discord.gg/CfHFqB34Ye)
+
+---
+
 ![HungTeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HungTeen&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HungTeen&layout=compact&hide=mcfunction)](https://github.com/anuraghazra/github-readme-stats)
