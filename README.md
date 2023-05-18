@@ -5,9 +5,10 @@
 - 🌱 I’m currently learning elegantly coding.
 - 👯 I’m looking for help with textures and models.
 
----
-
+### Contact Me ~
 [![Discord](https://img.shields.io/discord/730705254567510086.svg?color=%237289da&label=Discord&logo=discord&logoColor=%237289da)](https://discord.gg/CfHFqB34Ye)
+
+[KOOK](https://kook.top/8l9rQ8)
 
 ---
 
